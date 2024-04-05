@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_localizations: 0.2.0
-    sdk: flutter
+    # sdk: flutter
   intl: 0.18.1
 
 dev_dependencies:
