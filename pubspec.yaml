@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_localizations: 0.2.0
+  flutter_localizations: 0.1.14
     # sdk: flutter
   intl: 0.18.1
 
